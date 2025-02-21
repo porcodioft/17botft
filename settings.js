@@ -5,29 +5,8 @@ const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js')
 
 //---------[ PROPIETARIO/OWNER ]---------
 global.owner = [
-["15167096032", "Owner", true],
-["50766066665"], 
-["595975740803"], 
-["595986172767"], 
-["5492266466080"], 
-["50768888888"],
-["5492266613038"], 
-["584123552078"], 
-["573242402359"], 
-["5217294888993"],
-["5214437863111"], 
-["51906662557"], 
-["595992302861"], 
-["5217441298510"], 
-["5491155983299"],
-["5493795319022"], 
-["5217821153974"], 
-["584163393168"], 
-["573147616444"], 
-["5216865268215"],
-["50765500000"], 
-["573012482694"], 
-['50582340051']]
+["393270466066", "Owner", true],
+
 
 global.stickerCommands = {};
 global.mods = []
@@ -60,8 +39,8 @@ global.grupoChat = {
 
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "CORTANABOT-2.0"
-global.wm = '𝙲𝙾𝚁𝚃𝙰𝙽𝙰𝙱𝙾𝚃-𝟸.𝟶'
+global.botname = "17BotFt"
+global.wm = 'botttazzo'
 global.vs = '(Personalizado)'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
@@ -140,13 +119,13 @@ global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 global.verificar = 'https://qu.ax/Wogm.mp4'
 
 //---------[ ENLACES ]---------
-global.md = 'https://github.com/russellxz/CORTANABOT2.0.git'
-global.yt = 'https://www.youtube.com/@RussellxzZing507andCrownsavage'
-global.tiktok = 'https://www.instagram.com/russellxz507ny'
+global.md = 'https://github.com/porcodioft'
+global.yt = 'https://www.youtube.com/glocky'
+global.tiktok = 'https://www.instagram.com/filippotozzii'
 global.fb = 'https://www.facebook.com/elrebelde21'
 global.faceb = 'https://facebook.com/groups/872989990425789/'
 
-global.n2 = "https://whatsapp.com/channel/0029VaWABAMG8l5K8K9PAB3v" //canal cortaba 
+global.n2 = "https://whatsapp.com/channel/0029VaWABAMG8l5K8K9PAB" //canal cortaba 
 global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update 
 global.nn = 'https://chat.whatsapp.com/HOcczbax7HR1TgRcLfeBRE' //LoliBot
 global.nn2 = 'https://chat.whatsapp.com/HOcczbax7HR1TgRcLfeBRE' //Loli & Nova
