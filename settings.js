@@ -8,7 +8,6 @@ global.owner = [
 ["393270466066", "Owner", true],
 
 
-global.stickerCommands = {o};
 global.mods = []
 global.premium = []  
 global.blockList = []  
